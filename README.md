@@ -9,3 +9,8 @@ The course will provide an overview of statistical models, Markov models, system
 
 Assessment:
 Usage of Netlogo Software for ABM Models as the assessment for this course.
+
+ABM Model of Ocean Plastic Pollution present in fishes:
+
+This is an ABM model that explains the ocean plastic pollution problem that is present in the fishing population that ends up in the plates of our foods for consumption.
+Fish in the North Pacific ingest 12,000 to 24,000 tons of plastic each year, which can cause intestinal injury and death and transfers plastic up the food chain to bigger fish, marine mammals and human seafood eaters. A recent study found that a quarter of fish at markets in California contained plastic in their guts, mostly in the form of plastic microfibers.
